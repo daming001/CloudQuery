@@ -1,2 +1,3 @@
 # CloudQuery
-Browser-based unified data management tool
+Browser-based unified data management tool.
+DBA & Developer's efficiency accelerator.
